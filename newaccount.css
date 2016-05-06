@@ -1,0 +1,47 @@
+body{
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    background-image: url("grass.jpg");
+    color: #FFFFFF;
+    text-align: center;
+}
+
+#error{
+    border-radius: 25px;
+    background-color: rgba(230, 85, 85, 0.7);
+    position: absolute;
+    top: 0;
+    bottom: 100px;
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 700px;
+    height: 230px;
+}
+
+#yesplease{
+    font-size: 1.8em;
+    border-radius: 25px;
+    background-color: rgba(23, 59, 11, 0.86);
+    position: absolute;
+    top: 0;
+    bottom: 100px;
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 700px;
+    height: 230px;
+}
+
+#denied{
+    font-size: 1.8em;
+    border-radius: 25px;
+    background-color: rgba(230, 85, 85, 0.7);
+    position: absolute;
+    top: 0;
+    bottom: 100px;
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 700px;
+    height: 200px;
+}

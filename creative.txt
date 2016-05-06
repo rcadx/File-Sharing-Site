@@ -1,0 +1,17 @@
+Module 2
+
+Group members:
+    (1) Ruth Chen - 423268
+    (2) Chiraag Kapadia - 430947
+    
+Running ec2 instances:
+    (1) Ruth Chen - http://ec2-52-2-113-235.compute-1.amazonaws.com/~rcadx/
+    (2) Chiraag Kapadia - http://ec2-52-22-71-32.compute-1.amazonaws.com/~chiraag/
+
+Creative portion:
+    We offered users the option of creating a new account on our filesharing site if they entered in a nonexistent username.
+    We offered users the option of sharing a file with another existing user on the filesharing site.
+
+Login details (for Filesharing site):
+    Username: guest
+    New usernames can also be created.

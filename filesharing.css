@@ -1,0 +1,56 @@
+body{
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    background-image: url("grass.jpg");
+    color: #FFFFFF;
+    text-align: center;
+}
+
+h1{
+    font-size: 2em;
+}
+
+#upload{
+    font-size: 1.5em;
+    border-radius: 25px;
+    background-color: rgba(23, 59, 11, 0.86);
+    float: left;
+    margin-left: 100px;
+    width: 400px;
+}
+
+#filesuploaded{
+    border-radius: 25px;
+    background-color: rgba(23, 59, 11, 0.86);
+    float: right;
+    margin-right: 100px;
+    height: 550px;
+    width: 700px;
+    overflow: scroll;
+}
+
+#uploadfilebutton{
+    background-color: rgb(255, 255, 255);
+    border-radius: 25px;
+    font-size: 0.5em;
+    color: black;
+    width: 120px;
+    text-align: center;
+}
+
+#logout{
+    position: absolute;
+    top: 33px;
+    right: 108px;
+    border-radius: 25px;
+    font-size: 0.8em;
+    background-color: rgba(230, 85, 85, 0.7);
+    width: 150px;
+    text-align: center;
+}
+
+#individualfile{
+    background-color: rgba(255, 255, 255, 0.2);
+    top: 30px;
+    height: 55px;
+    width: 700px;
+}
